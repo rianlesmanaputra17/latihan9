@@ -36,7 +36,7 @@ echo "<br>";
 echo "Nama: " . $sungokong->name . "<br>";
 echo "Legs: " . $sungokong->legs . "<br>"; // Output: 2
 echo "Cold Blooded: " . $sheep->cold_blooded . "<br>"; // Output: "no"
-echo "Y`ell:";
+echo "Yell:";
 $sungokong->yell(); // Output: "Auooo"
 
 
